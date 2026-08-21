@@ -1,0 +1,55 @@
+{
+    "version": 1,
+    "name": "Input_Actions",
+    "maps": [
+        {
+            "name": "Title",
+            "id": "415a7fca-527c-4c1c-b844-41306aadc866",
+            "actions": [
+                {
+                    "name": "Select Left",
+                    "type": "Button",
+                    "id": "8d7956bd-87c8-4d4a-b547-d6674d6cc1a4",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Select Right",
+                    "type": "Button",
+                    "id": "c8bae9ae-8488-4acd-9f35-63b1105e3e33",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "100880bc-0802-485c-8c0f-70552dd5f075",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Select Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c93b44e6-e6a6-49fe-94b4-88c07c1eb9e8",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Select Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

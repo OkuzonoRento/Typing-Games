@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2876261bb5af236459e768b0afbb6192, type: 3}
+  m_Name: Character_03
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  _characterID: 2
+  _characterName: c3
+  _characterModel: {fileID: 5453177587280305130, guid: 732eeb1c3ae461647a387803ea12b773, type: 3}
+  _ultName: c3_ult
+  _ultRequiredGauge: 0
